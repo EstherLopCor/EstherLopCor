@@ -10,22 +10,38 @@ I like to read, nature and enjoy every moment of it. :heart:
 * :kissing_smiling_eyes: Empathy
 * :smiley: Positive 
 
+## Languages and tools
+
+visual studio code
+
+javascript
+
+react
+
+html5
+
+css3
+
+sass
+
+json
+
+eslint
+
+Node.js
+
+MySQL
+
+Git
+
+github
+
+terminal
+
+windows
+
 ## Get in touch
-* [Twitter](http://https://twitter.com/EstherLopCor)
-* [Linkedin](http://https://https://www.linkedin.com/in/estherlopcor/)
+* [Twitter](http://twitter.com/EstherLopCor)
+* [Linkedin](http://www.linkedin.com/in/estherlopcor/)
 
 
-<!--
-**EstherLopCor/EstherLopCor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
