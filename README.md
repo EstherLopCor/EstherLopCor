@@ -14,17 +14,17 @@ I like to read, nature and enjoy every moment of it. :heart:
 
 [![image](https://user-images.githubusercontent.com/75784422/113025930-ca448500-9188-11eb-8aee-deda11445fa0.png)](http://code.visualstudio.com)
 
-[javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![image](https://user-images.githubusercontent.com/75784422/113026008-e21c0900-9188-11eb-8fc2-183a2bd369d0.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[react](https://reactjs.org/)
+[![image](https://user-images.githubusercontent.com/75784422/113026046-ec3e0780-9188-11eb-9170-f21da4a6d2da.png)](https://reactjs.org/)
 
-[html5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![image](https://user-images.githubusercontent.com/75784422/113026084-f829c980-9188-11eb-97c4-82d83d3c257f.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-[css3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![image](https://user-images.githubusercontent.com/75784422/113026141-0aa40300-9189-11eb-9bac-1e228a2630d4.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[sass](https://sass-lang.com/)
+[![image](https://user-images.githubusercontent.com/75784422/113026169-14c60180-9189-11eb-8102-95aea712e549.png)](https://sass-lang.com/)
 
-[Node.js](https://nodejs.org/en/)
+[https://camo.githubusercontent.com/c84f629d714a6d92d61115db67819ebfc7faddc7ea60bc49fd4c6ea209c04583/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f6e6f64656a732e706e67](https://nodejs.org/en/)
 
 [MySQL](https://dev.mysql.com/)
 
