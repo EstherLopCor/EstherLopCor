@@ -12,33 +12,29 @@ I like to read, nature and enjoy every moment of it. :heart:
 
 ## Languages and tools
 
-visual studio code
+[![image](https://user-images.githubusercontent.com/75784422/113025930-ca448500-9188-11eb-8aee-deda11445fa0.png)](http://code.visualstudio.com)
 
-javascript
+[javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-react
+[react](https://reactjs.org/)
 
-html5
+[html5](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-css3
+[css3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-sass
+[sass](https://sass-lang.com/)
 
-json
+[Node.js](https://nodejs.org/en/)
 
-eslint
+[MySQL](https://dev.mysql.com/)
 
-Node.js
+[Git](https://git-scm.com/)
 
-MySQL
+[github](https://github.com/)
 
-Git
+[terminal](https://docs.microsoft.com/en-us/windows/terminal/)
 
-github
-
-terminal
-
-windows
+[windows](https://www.microsoft.com/en-us/windows)
 
 ## Get in touch
 * [Twitter](http://twitter.com/EstherLopCor)
